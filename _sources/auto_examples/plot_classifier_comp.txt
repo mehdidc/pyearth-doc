@@ -1,0 +1,28 @@
+
+
+.. _example_plot_classifier_comp.py:
+
+
+===============================
+Plotting sckit-learn classifiers comparison with Earth
+===============================
+
+This script recreates the scikit-learn classifier comparison example found at http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html.
+It has been modified to include an Earth based classifier.
+
+
+
+.. image:: images/plot_classifier_comp_001.png
+    :align: center
+
+
+
+
+**Python source code:** :download:`plot_classifier_comp.py <plot_classifier_comp.py>`
+
+.. literalinclude:: plot_classifier_comp.py
+    :lines: 9-
+
+**Total running time of the example:**  22.09 seconds
+( 0 minutes  22.09 seconds)
+    
